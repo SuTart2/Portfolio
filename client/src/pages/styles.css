@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+div{
+    background-color: black;
+}
+h1{
+    font-size: 60px;
+    color: white;
+}
+h4{
+    color: white;
+}
+p{
+    color: white;
+}
+li{
+    color: white;
+}
+label{
+    color: white;
+}
+input{
+    tab-size: 100px;
+}
