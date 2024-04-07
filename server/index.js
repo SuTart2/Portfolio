@@ -11,7 +11,7 @@ app.use(express.static(buildPath));
 const cors = require('cors')
 
 const corsOptions = {
-  origin: 'https://portfolio-wo00.onrender.com', // replace with your frontend server address
+  origin: 'https://portfolio-client-7rus.onrender.com', // replace with your frontend server address
   optionsSuccessStatus: 200 // some legacy browsers (IE11, various SmartTVs) choke on 204
 }
 
